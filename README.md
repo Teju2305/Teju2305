@@ -15,12 +15,12 @@ Welcome to my GitHub profile! I am a passionate web developer with a focus on bu
 
 ## 💼 Projects
 Here are some of the projects I've worked on recently:
-- 🌸 **Flower Show Website**: A landing page built using HTML and CSS with responsive design principles. [View project]
-  
+- 🌸 **Flower Show Website**: A landing page built using HTML and CSS with responsive design principles. [https://github.com/Teju2305/FLOWER-SHOW.git]
+   
 ## 🚀 What I'm Learning
 - 📚 **JavaScript**: Enhancing my knowledge and understanding of the fundamentals.
 - 🌐 **React**: Learning to build dynamic user interfaces.
 
 ## 📫 How to reach me:
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- Email: [tejaswinimanivel@gmail.com]
+- LinkedIn:(linkedin.com/in/tejaswini-mb-b0a974303)
